@@ -1,0 +1,24 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    border-collapse: collapse;
+}
+th,td{
+    padding-bottom: 7px;
+    padding-top: 7px;
+}
+tr:nth-child(even){
+    background-color: rgb(214, 212, 212);
+}
+th{
+    border: none;
+    background-color: rgba(5, 149, 72, 0.96); 
+    color: white;
+}
+tbody{
+    border-bottom: 1px solid #ddd;
+}

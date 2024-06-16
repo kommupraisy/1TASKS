@@ -1,0 +1,25 @@
+
+        .vnav{
+            padding: 15px;
+            background-color: aquamarine;
+            color: blue;
+            width:180px;
+        }
+        .vnav:hover{
+            background-color: orange;
+            color: white;
+            cursor: pointer;
+        }
+        .hnav{
+            margin: -2px;
+            border-right: blue solid 1px;
+            display: inline;
+            padding: 10px 20px;
+            background-color: #c5c6d0;
+        }
+        .hnav:hover{
+            background-color: #808080;
+            color: white;
+            cursor:pointer;
+        }
+
